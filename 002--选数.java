@@ -1,5 +1,6 @@
 //NOIP2002 普及组
 //https://www.luogu.com.cn/problem/P1036
+// DFS
 
 import java.util.Scanner;
 
